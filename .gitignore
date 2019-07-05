@@ -3,3 +3,11 @@
 ################################################################################
 
 /MongoCRM.API/obj
+/MongoCRM.API/bin/Debug/netcoreapp2.2
+/.vs/MongoCRM
+/MongoCRM.Core/bin/Debug/netstandard2.0
+/MongoCRM.Core/obj
+/MongoCRM.Schema/bin/Debug/netstandard2.0
+/MongoCRM.Schema/obj
+/MongoCRM.UnitTest/bin/Debug/netcoreapp2.2
+/MongoCRM.UnitTest/obj
