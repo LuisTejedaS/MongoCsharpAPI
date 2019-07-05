@@ -2,7 +2,7 @@
 Example of using Mongo DB with C sharp using an API with dotnet core
 
 
-# Download from
+# Download MongoDB from
 https://www.mongodb.com/download-center?lang=es-es
 
 You could use postman to verify functionality:
