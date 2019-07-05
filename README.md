@@ -1,5 +1,5 @@
 # MongoCsharpAPI
-Example of using Mongo DB with C sharp using an API
+Example of using Mongo DB with C sharp using an API with dotnet core
 
 
 # Download from
